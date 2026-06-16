@@ -1,1 +1,1 @@
-# free-trial-storefront-scaffold
+# Your new frontend
